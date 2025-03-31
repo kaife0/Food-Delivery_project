@@ -4,7 +4,7 @@ This repository contains the **frontend** code for the Food Delivery App Website
 
 ---
 
-## 🌟 Features
+## 🌟 Features 
 
 - **Menu Lists:** Explore menus and other food options.
 - **Responsive Design:** Optimized for desktop, tablet, and mobile devices.
